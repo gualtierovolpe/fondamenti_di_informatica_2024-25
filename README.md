@@ -1,4 +1,4 @@
-# Esercitazioni Fondamenti di Informatica - A.A. 2024/2025, primo semestre
+# Esercitazioni Fondamenti di Informatica <br> A.A. 2024/2025, primo semestre
 
 ## Istruzioni per l'utilizzo
 
