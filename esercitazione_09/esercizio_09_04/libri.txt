@@ -1,0 +1,5 @@
+1,Il Codice da Vinci,Dan Brown,500,20
+2,Lo Hobbit,JRR Tolkien,700,35
+3,L'alchimista,Paulo Coelho,350,25
+4,Il giovane Holden,J.D. Salinger,225,15.50
+5,Dieci piccoli indiani,Agatha Christie,275,18.25   
